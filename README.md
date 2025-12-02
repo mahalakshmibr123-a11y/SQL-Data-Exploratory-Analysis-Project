@@ -83,6 +83,5 @@ SQL-Data-Exploratory-Analysis-Project/
 ├── LICENSE                             # License information for the repository
 ```
 
-\
 
    
